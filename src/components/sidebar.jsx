@@ -48,13 +48,41 @@ class Sidebar extends Component {
                       About
                     </a>
                   </li>
-                  {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
-                      <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
                   <li>
                     <a href="#timeline" data-nav-section="timeline">
                       Timeline
                     </a>
                   </li>
+                  {/*<li>
+                    <a href="#" data-nav-section="services">
+                      Services
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#" data-nav-section="skills">
+                      Skills
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#" data-nav-section="education">
+                      Education
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#" data-nav-section="experience">
+                      Experience
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#" data-nav-section="work">
+                      Work
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#" data-nav-section="contact">
+                      Contact
+                    </a>
+                  </li>*/}
                 </ul>
               </div>
             </nav>
@@ -74,18 +102,9 @@ class Sidebar extends Component {
                     <i className="icon-twitter2" />
                   </a>
                 </li>
-                {/* <li>
-                  <a
-                    href="https://www.instagram.com/ddbarochiya/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="icon-instagram" />
-                  </a>
-                </li> */}
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/#/"
+                    href="https://www.linkedin.com/in/somto-eluwa-a13a4895/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -101,15 +120,6 @@ class Sidebar extends Component {
                     <i className="icon-github" />
                   </a>
                 </li>
-                {/* <li>
-                  <a
-                    href="https://medium.com/@dhruv.barochia34788"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="icon-blogger2" />
-                  </a>
-                </li> */}
               </ul>
             </nav>
             <div className="colorlib-footer">
@@ -145,7 +155,7 @@ class Sidebar extends Component {
               </p>
               <p>
                 <small>
-                  Built with <i class="fas fa-react    " />
+                  Built with React{/* TODO: Change to react revolving icon*/}
                 </small>
               </p>
             </div>
