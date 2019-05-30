@@ -42,18 +42,53 @@ class Contact extends Component {
                     <p>Stevenage, England, UK</p>
                   </div>
                 </div>
-
-                <div
-                  class="colorlib-feature colorlib-feature-sm animate-box"
-                  data-animate-effect="fadeInLeft"
-                >
-                  <div class="colorlib-icon">
-                    <i class="icon-phone" />
-                  </div>
-                  <div class="colorlib-text">
-                    <p>
-                      <a href="tel://">+44(0)795 430 7630</a>
-                    </p>
+              </div>
+              <div class="col-md-7 col-md-push-1">
+                <div class="row">
+                  <div
+                    class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box"
+                    data-animate-effect="fadeInRight"
+                  >
+                    <form action="">
+                      <div class="form-group">
+                        <input
+                          type="text"
+                          class="form-control"
+                          placeholder="Name"
+                        />
+                      </div>
+                      <div class="form-group">
+                        <input
+                          type="text"
+                          class="form-control"
+                          placeholder="Email"
+                        />
+                      </div>
+                      <div class="form-group">
+                        <input
+                          type="text"
+                          class="form-control"
+                          placeholder="Subject"
+                        />
+                      </div>
+                      <div class="form-group">
+                        <textarea
+                          name=""
+                          id="message"
+                          cols="30"
+                          rows="7"
+                          class="form-control"
+                          placeholder="Message"
+                        />
+                      </div>
+                      <div class="form-group">
+                        <input
+                          type="submit"
+                          class="btn btn-primary btn-send-message"
+                          value="Send Message"
+                        />
+                      </div>
+                    </form>
                   </div>
                 </div>
               </div>
@@ -64,3 +99,5 @@ class Contact extends Component {
     );
   }
 }
+
+export default Contact;

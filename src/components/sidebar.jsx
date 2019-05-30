@@ -21,7 +21,7 @@ class Sidebar extends Component {
               <div
                 className="author-img"
                 style={{
-                  backgroundImage: "url(images/#)",
+                  backgroundImage: "url(images/IMG_20180803_181556_Bokeh.jpg)",
                   backgroundColor: "#000000"
                 }}
               />
@@ -49,23 +49,8 @@ class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="#timeline" data-nav-section="timeline">
-                      Timeline
-                    </a>
-                  </li>
-                  {/*<li>
-                    <a href="#" data-nav-section="services">
-                      Services
-                    </a>
-                  </li>
-                  <li>
                     <a href="#" data-nav-section="skills">
                       Skills
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#" data-nav-section="education">
-                      Education
                     </a>
                   </li>
                   <li>
@@ -74,15 +59,15 @@ class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="#" data-nav-section="work">
-                      Work
+                    <a href="#" data-nav-section="education">
+                      Education
                     </a>
                   </li>
                   <li>
                     <a href="#" data-nav-section="contact">
                       Contact
                     </a>
-                  </li>*/}
+                  </li>
                 </ul>
               </div>
             </nav>

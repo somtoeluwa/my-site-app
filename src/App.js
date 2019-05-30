@@ -4,7 +4,11 @@ import "./App.css";
 import Sidebar from "./components/sidebar";
 import Home from "./components/home";
 import About from "./components/about";
-import Timeline from "./components/timeline";
+import Services from "./components/services";
+import Skills from "./components/skills";
+import Experience from "./components/experience";
+import Education from "./components/education";
+import Contact from "./components/contact";
 
 function App() {
   return (
@@ -14,7 +18,10 @@ function App() {
         <div id="colorlib-main">
           <Home />
           <About />
-          <Timeline />
+          <Skills />
+          <Experience />
+          <Education />
+          <Contact />
         </div>
       </div>
     </div>

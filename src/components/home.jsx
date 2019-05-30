@@ -14,7 +14,8 @@ class Home extends Component {
             <ul className="slides">
               <li
                 style={{
-                  backgroundImage: "url(images/#)",
+                  backgroundImage:
+                    "url(images/neal-e-johnson-1556255-unsplash.jpg)",
                   backgroundColor: "#ffffff"
                 }}
               >
@@ -47,7 +48,8 @@ class Home extends Component {
               </li>
               <li
                 style={{
-                  backgroundImage: "url(images/#)",
+                  backgroundImage:
+                    "url(images/mikael-kristenson-242108-unsplash.jpg)",
                   backgroundColor: "#ffffff"
                 }}
               >
