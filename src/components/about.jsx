@@ -18,6 +18,7 @@ class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
+                        <strong>Hi, my name is Somto Eluwa</strong>
                         I am a Developer born in Nigeria curently living and
                         working in the UK.
                       </p>
@@ -55,7 +56,7 @@ class About extends Component {
                     <h3>Web Development </h3>
                     <p>
                       I have experience building websites using
-                      JavaScript,React,HTML,CSS,PHP,C#
+                      JavaScript,React,HTML,CSS,PHP,C#,.NetCore
                     </p>
                   </div>
                 </div>
@@ -69,7 +70,7 @@ class About extends Component {
                     <h3>Application Development</h3>
                     <p>
                       I also build console and desktop applications using C#,
-                      .Net, Powershell, Java
+                      .NetCore, Powershell, Java
                     </p>
                   </div>
                 </div>
@@ -82,8 +83,8 @@ class About extends Component {
                   <div className="desc">
                     <h3>Dev Ops</h3>
                     <p>
-                      Installation and deployment using Bamboo, Docker and
-                      Configuration of Cloud solutions
+                      Creating Continuous Integration and Continous Deployment enviroments using Bamboo, Docker and
+                      Configuration of Cloud technologies
                     </p>
                   </div>
                 </div>
@@ -91,7 +92,7 @@ class About extends Component {
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                   <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-bulb" />
                   </span>
                   <div className="desc">
                     <h3>Product</h3>
@@ -105,7 +106,7 @@ class About extends Component {
                     <i className="icon-layers2" />
                   </span>
                   <div className="desc">
-                    <h3>Business Development and Analysis</h3>
+                    <h3>Business Dev and Analysis</h3>
                     <p>
                       Requirement Gathering, Requirement Analyisis, Requirement
                       validation{" "}
@@ -116,11 +117,11 @@ class About extends Component {
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                   <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-bubbles4" />
                   </span>
                   <div className="desc">
                     <h3>Client Engagement</h3>
-                    <p>Strong presentation skills,</p>
+                    <p>Pre sales engagement, Strong presentation and communication skills, Onsite customer demos, Customer training</p>
                   </div>
                 </div>
               </div>

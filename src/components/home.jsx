@@ -32,7 +32,7 @@ class Home extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="#"
+                                                        href="https://drive.google.com/file/d/1DWT5kLgGnZ0U_XZ8yB7TYQRJrKWwXh34/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -60,13 +60,13 @@ class Home extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>
-                            I love building
-                            <br /> THINGS !!
+                            Here's some stuff
+                            <br /> I've built!
                           </h1>
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="#"
+                                                        href="https://github.com/somtoeluwa"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
