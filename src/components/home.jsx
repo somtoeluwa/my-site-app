@@ -32,7 +32,7 @@ class Home extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                                                        href="https://drive.google.com/file/d/1DWT5kLgGnZ0U_XZ8yB7TYQRJrKWwXh34/view?usp=sharing"
+                              href="https://drive.google.com/file/d/1DWT5kLgGnZ0U_XZ8yB7TYQRJrKWwXh34/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -66,7 +66,7 @@ class Home extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                                                        href="https://github.com/somtoeluwa"
+                              href="https://github.com/somtoeluwa"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
