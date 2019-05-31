@@ -30,8 +30,8 @@ class Experience extends Component {
 
                       <div class="timeline-label">
                         <h2>
-                          <a href="#">Full Stack Developer</a>{" "}
-                          <span>2017-2018</span>
+                          <a href="#">Software Developer</a>{" "}
+                          <span>2016-Date</span>
                         </h2>
                         <p>
                           Tolerably earnestly middleton extremely distrusts she
@@ -54,8 +54,8 @@ class Experience extends Component {
                       </div>
                       <div class="timeline-label">
                         <h2>
-                          <a href="#">Front End Developer at Google Company</a>{" "}
-                          <span>2017-2018</span>
+                          <a href="#">Full Stack Developer</a>{" "}
+                          <span>2015-2016</span>
                         </h2>
                         <p>
                           Even the all-powerful Pointing has no control about
@@ -78,31 +78,8 @@ class Experience extends Component {
                       </div>
                       <div class="timeline-label">
                         <h2>
-                          <a href="#">System Analyst</a> <span>2017-2018</span>
-                        </h2>
-                        <p>
-                          Even the all-powerful Pointing has no control about
-                          the blind texts it is an almost unorthographic life
-                          One day however a small line of blind text by the name
-                          of Lorem Ipsum decided to leave for the far World of
-                          Grammar.
-                        </p>
-                      </div>
-                    </div>
-                  </article>
-
-                  <article
-                    class="timeline-entry animate-box"
-                    data-animate-effect="fadeInTop"
-                  >
-                    <div class="timeline-entry-inner">
-                      <div class="timeline-icon color-4">
-                        <i class="icon-pen2" />
-                      </div>
-                      <div class="timeline-label">
-                        <h2>
-                          <a href="#">Creative Designer</a>{" "}
-                          <span>2017-2018</span>
+                          <a href="#">Business Development Exec</a>{" "}
+                          <span>2014-2015</span>
                         </h2>
                         <p>
                           Even the all-powerful Pointing has no control about
@@ -120,13 +97,13 @@ class Experience extends Component {
                     data-animate-effect="fadeInLeft"
                   >
                     <div class="timeline-entry-inner">
-                      <div class="timeline-icon color-5">
+                      <div class="timeline-icon color-3">
                         <i class="icon-pen2" />
                       </div>
                       <div class="timeline-label">
                         <h2>
-                          <a href="#">UI/UX Designer at Envato</a>{" "}
-                          <span>2017-2018</span>
+                          <a href="#">Talent Manager</a>{" "}
+                          <span>2014-2015</span>
                         </h2>
                         <p>
                           Even the all-powerful Pointing has no control about

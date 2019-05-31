@@ -20,11 +20,12 @@ class About extends Component {
                       <p>
                         <strong>Hi, my name is Somto Eluwa</strong>
                         I am a Developer born in Nigeria curently living and
-                        working in the UK.
+                        working in the UK. I build software aimed at deliverying the best value and experience for users.
+                        Automated systems aimed at simplifying BAU tasks and empowering non tech buisness users in making the big decisions.
+                        Think clean UX and UI with a robust back-end to handle complex computing.     
                       </p>
                       <p>
-                        I am on a journey to self discovery. Follow me on this
-                        road to self!
+                        I like reading, music, football, anime and gaming!        
                       </p>
                     </div>
                   </div>
