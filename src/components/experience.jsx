@@ -30,15 +30,25 @@ class Experience extends Component {
 
                       <div class="timeline-label">
                         <h2>
-                          <a href="#">Software Developer</a>{" "}
+                          <a href="#">Software Developer at Doccentrics</a>{" "}
                           <span>2016-Date</span>
                         </h2>
                         <p>
-                          Tolerably earnestly middleton extremely distrusts she
-                          boy now not. Add and offered prepare how cordial two
-                          promise. Greatly who affixed suppose but enquire
-                          compact prepare all put. Added forth chief trees but
-                          rooms think may.
+                          I build automated .NET applications aimed at large
+                          data cleansing and validation based on configurable
+                          customer requirements. These applications are designed
+                          to be automated and self-managing reducing human
+                          intervention in the process life cycle. I also work on
+                          ASP.Net web applications which can be used to
+                          configure business rules which drive complex data
+                          calculations for document creation. Document
+                          composition development using 3rd party software
+                          Quadient Inspire. I train clients on product usage and
+                          I engage clients as part of pre-sales technical
+                          requirement gathering. Technologies used include C#,
+                          PowerShell, .NetCore, .NetFramework, MySQL, MongoDB,
+                          Entity Framework, VisualStudio, JIRA, Git, Octopus
+                          Deploy, Bamboo.
                         </p>
                       </div>
                     </div>
@@ -58,11 +68,10 @@ class Experience extends Component {
                           <span>2015-2016</span>
                         </h2>
                         <p>
-                          Even the all-powerful Pointing has no control about
-                          the blind texts it is an almost unorthographic life
-                          One day however a small line of blind text by the name
-                          of Lorem Ipsum decided to leave for the far World of
-                          Grammar.
+                          I worked as a free lance full stack developer using
+                          the WAMP stack building websites for clients. Using
+                          HTML5, CSS, BootStrap, JavaScript, PHP . A combination
+                          of MySQL and NoSQL databases.
                         </p>
                       </div>
                     </div>
@@ -82,11 +91,10 @@ class Experience extends Component {
                           <span>2014-2015</span>
                         </h2>
                         <p>
-                          Even the all-powerful Pointing has no control about
-                          the blind texts it is an almost unorthographic life
-                          One day however a small line of blind text by the name
-                          of Lorem Ipsum decided to leave for the far World of
-                          Grammar.
+                          was in charge of content curation and sourcing.
+                          Researching and establishing opportunities for new
+                          business development. Web application testing and
+                          development.
                         </p>
                       </div>
                     </div>
@@ -97,20 +105,16 @@ class Experience extends Component {
                     data-animate-effect="fadeInLeft"
                   >
                     <div class="timeline-entry-inner">
-                      <div class="timeline-icon color-3">
+                      <div class="timeline-icon color-4">
                         <i class="icon-pen2" />
                       </div>
                       <div class="timeline-label">
                         <h2>
-                          <a href="#">Talent Manager</a>{" "}
-                          <span>2014-2015</span>
+                          <a href="#">Talent Manager</a> <span>2014-2015</span>
                         </h2>
                         <p>
-                          Even the all-powerful Pointing has no control about
-                          the blind texts it is an almost unorthographic life
-                          One day however a small line of blind text by the name
-                          of Lorem Ipsum decided to leave for the far World of
-                          Grammar.
+                          Talent manager for multiple artistes in both the music
+                          and film industry
                         </p>
                       </div>
                     </div>

@@ -22,7 +22,8 @@ class Skills extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <p>
-                  I love learning and exploring new technologies. Here's my areas of skill.
+                  I love learning and exploring new technologies. Here's my
+                  areas of skill.
                 </p>
               </div>
               <div
@@ -55,12 +56,12 @@ class Skills extends Component {
                     <div
                       className="progress-bar color-2"
                       role="progressbar"
-                      aria-valuenow={60}
+                      aria-valuenow={65}
                       aria-valuemin={0}
                       aria-valuemax={100}
-                      style={{ width: "60%" }}
+                      style={{ width: "65%" }}
                     >
-                      <span>60%</span>
+                      <span>65%</span>
                     </div>
                   </div>
                 </div>
@@ -70,7 +71,7 @@ class Skills extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="progress-wrap">
-                <h3>Databases (Mysql, MSSql, MongoDb, NoSQL)</h3>
+                  <h3>Databases (Mysql, MongoDb, NoSQL)</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-3"
@@ -90,7 +91,7 @@ class Skills extends Component {
                 data-animate-effect="fadeInRight"
               >
                 <div className="progress-wrap">
-                <h3>Web Development (Reactjs)</h3>
+                  <h3>Web Development (Reactjs)</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-4"

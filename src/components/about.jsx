@@ -19,14 +19,30 @@ class About extends Component {
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
                         <strong>Hi, my name is Somto Eluwa</strong>
-                        I am a Developer born in Nigeria curently living and
-                        working in the UK. I build software aimed at deliverying the best value and experience for users.
-                        Automated systems aimed at simplifying BAU tasks and empowering non tech buisness users in making the big decisions.
-                        Think clean UX and UI with a robust back-end to handle complex computing.     
+                        <br />I am a Software Engineer born in Nigeria curently
+                        living and working in the UK. I build software aimed at
+                        deliverying the best value and experience for users.
+                        Automated systems aimed at simplifying BAU tasks and
+                        empowering non tech buisness users in making the big
+                        decisions. Think clean UX and UI with a robust back-end
+                        to handle complex computing.
                       </p>
                       <p>
-                        I like reading, music, football, anime and gaming!        
+                        Personally I beleive 3 things make a good great engineer
+                        and i try to improve on them everyday. They are :{" "}
+                        <ul>
+                          <li>
+                            <strong>Intiative</strong>
+                          </li>
+                          <li>
+                            <strong>Impact</strong>
+                          </li>
+                          <li>
+                            <strong>Leadership</strong>
+                          </li>
+                        </ul>
                       </p>
+                      <p>I like reading, music, football, anime and gaming!</p>
                     </div>
                   </div>
                 </div>
@@ -84,7 +100,7 @@ class About extends Component {
                   <div className="desc">
                     <h3>Dev Ops</h3>
                     <p>
-                      Creating Continuous Integration and Continous Deployment enviroments using Bamboo, Docker and
+                      Creating CICD enviroments using Bamboo, Docker and
                       Configuration of Cloud technologies
                     </p>
                   </div>
@@ -97,7 +113,9 @@ class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Product</h3>
-                    <p>Product design, road mapping, product development</p>
+                    <p>
+                      Product design, Product development and Product management
+                    </p>
                   </div>
                 </div>
               </div>
@@ -118,11 +136,14 @@ class About extends Component {
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                   <span className="icon">
-                    <i className="icon-bubbles4" />
+                    <i className="icon-speech-bubble" />
                   </span>
                   <div className="desc">
                     <h3>Client Engagement</h3>
-                    <p>Pre sales engagement, Strong presentation and communication skills, Onsite customer demos, Customer training</p>
+                    <p>
+                      Pre sales engagement, Strong presentation and
+                      communication skills, Customer training
+                    </p>
                   </div>
                 </div>
               </div>

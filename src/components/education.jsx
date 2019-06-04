@@ -50,19 +50,25 @@ class Education extends Component {
                       >
                         <div class="panel-body">
                           <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                               <p>
-                                Far far away, behind the word mountains, far
-                                from the countries Vokalia and Consonantia,
-                                there live the blind texts.{" "}
+                                Robert Gordon University
+                                <br />
+                                <i> September ’15 - September ’16</i>
+                                <br />
+                                Highlights:
+                                <br />
                               </p>
-                            </div>
-                            <div class="col-md-6">
-                              <p>
-                                Separated they live in Bookmarksgrove right at
-                                the coast of the Semantics, a large language
-                                ocean.
-                              </p>
+                              <ul>
+                                <li>Finished with a distinction</li>
+                                <li>
+                                  Won the class prize for best grad{" "}
+                                  <i
+                                    class="fa fa-graduation-cap"
+                                    aria-hidden="true"
+                                  />
+                                </li>
+                              </ul>
                             </div>
                           </div>
                         </div>
@@ -92,16 +98,9 @@ class Education extends Component {
                       >
                         <div class="panel-body">
                           <p>
-                            Far far away, behind the word{" "}
-                            <strong>mountains</strong>, far from the countries
-                            Vokalia and Consonantia, there live the blind texts.
-                            Separated they live in Bookmarksgrove right at the
-                            coast of the Semantics, a large language ocean.
+                            Covenant University <br />
+                            September ’07 - September ’13
                           </p>
-                          <ul>
-                            <li>Separated they live in Bookmarksgrove right</li>
-                            <li>Separated they live in Bookmarksgrove right</li>
-                          </ul>
                         </div>
                       </div>
                     </div>
@@ -127,13 +126,12 @@ class Education extends Component {
                         aria-labelledby="headingThree"
                       >
                         <div class="panel-body">
-                          <p>
-                            Far far away, behind the word{" "}
-                            <strong>mountains</strong>, far from the countries
-                            Vokalia and Consonantia, there live the blind texts.
-                            Separated they live in Bookmarksgrove right at the
-                            coast of the Semantics, a large language ocean.
-                          </p>
+                          <ul>
+                            <li>CCNA</li>
+                            <li>ITIL Foundation</li>
+                            <li>FreecodeCamp BootCamp</li>
+                            <li>Quadient Inspire </li>
+                          </ul>
                         </div>
                       </div>
                     </div>

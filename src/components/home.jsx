@@ -49,7 +49,7 @@ class Home extends Component {
               <li
                 style={{
                   backgroundImage:
-                    "url(images/mikael-kristenson-242108-unsplash.jpg)",
+                    "url(images/christopher-gower-291246-unsplash.jpg)",
                   backgroundColor: "#ffffff"
                 }}
               >
