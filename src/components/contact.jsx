@@ -4,87 +4,89 @@ class Contact extends Component {
   render() {
     return (
       <div>
-        <section class="colorlib-contact" data-section="contact">
-          <div class="colorlib-narrow-content">
-            <div class="row">
+        <section className="colorlib-contact" data-section="contact">
+          <div className="colorlib-narrow-content">
+            <div className="row">
               <div
-                class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
+                className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
                 data-animate-effect="fadeInLeft"
               >
-                <span class="heading-meta">Get in Touch</span>
-                <h2 class="colorlib-heading">Contact</h2>
+                <span className="heading-meta">Get in Touch</span>
+                <h2 className="colorlib-heading">Contact</h2>
               </div>
             </div>
-            <div class="row">
-              <div class="col-md-5">
+            <div className="row">
+              <div className="col-md-5">
                 <div
-                  class="colorlib-feature colorlib-feature-sm animate-box"
+                  className="colorlib-feature colorlib-feature-sm animate-box"
                   data-animate-effect="fadeInLeft"
                 >
-                  <div class="colorlib-icon">
-                    <i class="icon-globe-outline" />
+                  <div className="colorlib-icon">
+                    <i className="icon-globe-outline" />
                   </div>
-                  <div class="colorlib-text">
+                  <div className="colorlib-text">
                     <p>
-                      <a href="#">somtoeluwa@outlook.com</a>
+                      <a href="mailto:somtoeluwa@outlook.com">
+                        somtoeluwa@outlook.com
+                      </a>
                     </p>
                   </div>
                 </div>
 
                 <div
-                  class="colorlib-feature colorlib-feature-sm animate-box"
+                  className="colorlib-feature colorlib-feature-sm animate-box"
                   data-animate-effect="fadeInLeft"
                 >
-                  <div class="colorlib-icon">
-                    <i class="icon-map" />
+                  <div className="colorlib-icon">
+                    <i className="icon-map" />
                   </div>
-                  <div class="colorlib-text">
+                  <div className="colorlib-text">
                     <p>Stevenage, England, UK</p>
                   </div>
                 </div>
               </div>
-              <div class="col-md-7 col-md-push-1">
-                <div class="row">
+              <div className="col-md-7 col-md-push-1">
+                <div className="row">
                   <div
-                    class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box"
+                    className="col-md-10 col-md-offset-1 col-md-pull-1 animate-box"
                     data-animate-effect="fadeInRight"
                   >
                     <form action="">
-                      <div class="form-group">
+                      <div className="form-group">
                         <input
                           type="text"
-                          class="form-control"
+                          className="form-control"
                           placeholder="Name"
                         />
                       </div>
-                      <div class="form-group">
+                      <div className="form-group">
                         <input
                           type="text"
-                          class="form-control"
+                          className="form-control"
                           placeholder="Email"
                         />
                       </div>
-                      <div class="form-group">
+                      <div className="form-group">
                         <input
                           type="text"
-                          class="form-control"
+                          className="form-control"
                           placeholder="Subject"
                         />
                       </div>
-                      <div class="form-group">
+                      <div className="form-group">
                         <textarea
                           name=""
                           id="message"
                           cols="30"
                           rows="7"
-                          class="form-control"
+                          className="form-control"
                           placeholder="Message"
                         />
                       </div>
-                      <div class="form-group">
+                      <div className="form-group">
                         <input
                           type="submit"
-                          class="btn btn-primary btn-send-message"
+                          className="btn btn-primary btn-send-message"
                           value="Send Message"
                         />
                       </div>

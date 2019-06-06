@@ -30,18 +30,18 @@ class About extends Component {
                       <p>
                         Personally I beleive 3 things make a good great engineer
                         and i try to improve on them everyday. They are :{" "}
-                        <ul>
-                          <li>
-                            <strong>Intiative</strong>
-                          </li>
-                          <li>
-                            <strong>Impact</strong>
-                          </li>
-                          <li>
-                            <strong>Leadership</strong>
-                          </li>
-                        </ul>
                       </p>
+                      <ul>
+                        <li>
+                          <strong>Intiative</strong>
+                        </li>
+                        <li>
+                          <strong>Impact</strong>
+                        </li>
+                        <li>
+                          <strong>Leadership</strong>
+                        </li>
+                      </ul>
                       <p>I like reading, music, football, anime and gaming!</p>
                     </div>
                   </div>

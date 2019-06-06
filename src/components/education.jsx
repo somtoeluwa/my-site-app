@@ -5,32 +5,32 @@ class Education extends Component {
   render() {
     return (
       <div>
-        <section class="colorlib-education" data-section="education">
-          <div class="colorlib-narrow-content">
-            <div class="row">
+        <section className="colorlib-education" data-section="education">
+          <div className="colorlib-narrow-content">
+            <div className="row">
               <div
-                class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
+                className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
                 data-animate-effect="fadeInLeft"
               >
-                <span class="heading-meta">Education</span>
-                <h2 class="colorlib-heading animate-box">Education</h2>
+                <span className="heading-meta">Education</span>
+                <h2 className="colorlib-heading animate-box">Education</h2>
               </div>
             </div>
-            <div class="row">
+            <div className="row">
               <div
-                class="col-md-12 animate-box"
+                className="col-md-12 animate-box"
                 data-animate-effect="fadeInLeft"
               >
-                <div class="fancy-collapse-panel">
+                <div className="fancy-collapse-panel">
                   <div
-                    class="panel-group"
+                    className="panel-group"
                     id="accordion"
                     role="tablist"
                     aria-multiselectable="true"
                   >
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingOne">
-                        <h4 class="panel-title">
+                    <div className="panel panel-default">
+                      <div className="panel-heading" role="tab" id="headingOne">
+                        <h4 className="panel-title">
                           <a
                             data-toggle="collapse"
                             data-parent="#accordion"
@@ -44,13 +44,13 @@ class Education extends Component {
                       </div>
                       <div
                         id="collapseOne"
-                        class="panel-collapse collapse in"
+                        className="panel-collapse collapse in"
                         role="tabpanel"
                         aria-labelledby="headingOne"
                       >
-                        <div class="panel-body">
-                          <div class="row">
-                            <div class="col-md-12">
+                        <div className="panel-body">
+                          <div className="row">
+                            <div className="col-md-12">
                               <p>
                                 Robert Gordon University
                                 <br />
@@ -64,7 +64,7 @@ class Education extends Component {
                                 <li>
                                   Won the class prize for best grad{" "}
                                   <i
-                                    class="fa fa-graduation-cap"
+                                    className="fa fa-graduation-cap"
                                     aria-hidden="true"
                                   />
                                 </li>
@@ -74,11 +74,11 @@ class Education extends Component {
                         </div>
                       </div>
                     </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingTwo">
-                        <h4 class="panel-title">
+                    <div className="panel panel-default">
+                      <div className="panel-heading" role="tab" id="headingTwo">
+                        <h4 className="panel-title">
                           <a
-                            class="collapsed"
+                            className="collapsed"
                             data-toggle="collapse"
                             data-parent="#accordion"
                             href="#collapseTwo"
@@ -92,11 +92,11 @@ class Education extends Component {
                       </div>
                       <div
                         id="collapseTwo"
-                        class="panel-collapse collapse"
+                        className="panel-collapse collapse"
                         role="tabpanel"
                         aria-labelledby="headingTwo"
                       >
-                        <div class="panel-body">
+                        <div className="panel-body">
                           <p>
                             Covenant University <br />
                             September ’07 - September ’13
@@ -104,11 +104,15 @@ class Education extends Component {
                         </div>
                       </div>
                     </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingThree">
-                        <h4 class="panel-title">
+                    <div className="panel panel-default">
+                      <div
+                        className="panel-heading"
+                        role="tab"
+                        id="headingThree"
+                      >
+                        <h4 className="panel-title">
                           <a
-                            class="collapsed"
+                            className="collapsed"
                             data-toggle="collapse"
                             data-parent="#accordion"
                             href="#collapseThree"
@@ -121,11 +125,11 @@ class Education extends Component {
                       </div>
                       <div
                         id="collapseThree"
-                        class="panel-collapse collapse"
+                        className="panel-collapse collapse"
                         role="tabpanel"
                         aria-labelledby="headingThree"
                       >
-                        <div class="panel-body">
+                        <div className="panel-body">
                           <ul>
                             <li>CCNA</li>
                             <li>ITIL Foundation</li>

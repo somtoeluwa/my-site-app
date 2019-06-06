@@ -49,22 +49,22 @@ class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="#" data-nav-section="skills">
+                    <a href="#skills" data-nav-section="skills">
                       Skills
                     </a>
                   </li>
                   <li>
-                    <a href="#" data-nav-section="experience">
+                    <a href="#experience" data-nav-section="experience">
                       Experience
                     </a>
                   </li>
                   <li>
-                    <a href="#" data-nav-section="education">
+                    <a href="#education" data-nav-section="education">
                       Education
                     </a>
                   </li>
                   <li>
-                    <a href="#" data-nav-section="contact">
+                    <a href="#contact" data-nav-section="contact">
                       Contact
                     </a>
                   </li>
@@ -73,11 +73,6 @@ class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
-                    <i className="icon-facebook2" />
-                  </a>
-                </li>
                 <li>
                   <a
                     href="https://twitter.com/sommyb"
@@ -94,15 +89,6 @@ class Sidebar extends Component {
                     rel="noopener noreferrer"
                   >
                     <i className="icon-linkedin2" />
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://github.com/somtoeluwa"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="icon-github" />
                   </a>
                 </li>
               </ul>
@@ -137,11 +123,6 @@ class Sidebar extends Component {
               </p>
               <p>
                 <small>© Somto Eluwa 2019</small>
-              </p>
-              <p>
-                <small>
-                  Built with React{/* TODO: Change to react revolving icon*/}
-                </small>
               </p>
             </div>
           </aside>
