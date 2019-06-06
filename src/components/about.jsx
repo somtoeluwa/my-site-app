@@ -19,30 +19,24 @@ class About extends Component {
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
                         <strong>Hi, my name is Somto Eluwa</strong>
-                        <br />I am a Software Engineer born in Nigeria curently
-                        living and working in the UK. I build software aimed at
-                        deliverying the best value and experience for users.
+                      </p>
+                      <p>
+                        I am a Software Engineer. I build systems aimed at
+                        delivering the best value and experience for users.
                         Automated systems aimed at simplifying BAU tasks and
-                        empowering non tech buisness users in making the big
+                        empowering non-tech business users in making big
                         decisions. Think clean UX and UI with a robust back-end
                         to handle complex computing.
                       </p>
                       <p>
-                        Personally I beleive 3 things make a good great engineer
-                        and i try to improve on them everyday. They are :{" "}
+                        Personally, I believe taking the{" "}
+                        <strong>Intiative</strong>, being able to make a
+                        significant impact <strong>Impact</strong> and{" "}
+                        <strong>Leadership</strong> are the things that make a
+                        great software engineer and I strive to deliver and
+                        improve on them everywhere I work.
                       </p>
-                      <ul>
-                        <li>
-                          <strong>Intiative</strong>
-                        </li>
-                        <li>
-                          <strong>Impact</strong>
-                        </li>
-                        <li>
-                          <strong>Leadership</strong>
-                        </li>
-                      </ul>
-                      <p>I like reading, music, football, anime and gaming!</p>
+                      <p>I enjoy reading, music, football, anime and gaming!</p>
                     </div>
                   </div>
                 </div>
@@ -72,8 +66,8 @@ class About extends Component {
                   <div className="desc">
                     <h3>Web Development </h3>
                     <p>
-                      I have experience building websites using
-                      JavaScript,React,HTML,CSS,PHP,C#,.NetCore
+                      I have experience building websites using JavaScript,
+                      React, HTML, CSS, PHP, C#
                     </p>
                   </div>
                 </div>

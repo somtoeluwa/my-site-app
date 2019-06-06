@@ -15,7 +15,7 @@ class Home extends Component {
               <li
                 style={{
                   backgroundImage:
-                    "url(images/neal-e-johnson-1556255-unsplash.jpg)",
+                    "url(images/isaac-benhesed-249427-unsplash.jpg)",
                   backgroundColor: "#ffffff"
                 }}
               >
@@ -29,6 +29,7 @@ class Home extends Component {
                             Hi! <br />
                             I'm Somto
                           </h1>
+                          <h2>I build software</h2>
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
@@ -46,7 +47,7 @@ class Home extends Component {
                   </div>
                 </div>
               </li>
-              <li
+              {/*<li
                 style={{
                   backgroundImage:
                     "url(images/isaac-benhesed-249427-unsplash.jpg)",
@@ -61,24 +62,13 @@ class Home extends Component {
                         <div className="desc">
                           <h1>
                             Here's some stuff
-                            <br /> I've built!
                           </h1>
-                          <p>
-                            <a
-                              className="btn btn-primary btn-learn"
-                              href="https://github.com/somtoeluwa"
-                              target="_blank"
-                              rel="noopener noreferrer"
-                            >
-                              View Projects <i className="icon-briefcase3" />
-                            </a>
-                          </p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </li>
+              </li>*/}
             </ul>
           </div>
         </section>
